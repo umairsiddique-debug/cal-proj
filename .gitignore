@@ -1,0 +1,154 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+*.egg-info/
+.installed.cfg
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg
+*.whl
+wheelhouse/
+
+# Virtual environments
+env/
+env.bak/
+venv/
+venv.bak/
+.venv/
+venv3/
+ENV/
+ENV3/
+pyenv/
+.python-version
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+pipenv-metadata/
+
+# poetry
+.poetry/
+.python-version
+
+# pyright
+pyrightconfig.json
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code settings
+.history/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Secrets / environment variables
+.env
+.env.* 
+secrets.yml
+credentials/
+*.pem
+*.key
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Build artifacts
+*.class
+*.lock
+*.log
+
+# SQLite temporary
+*.db
+*.sqlite3
+
+# Static analysis caches
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Misc
+*.cover
+coverage/
